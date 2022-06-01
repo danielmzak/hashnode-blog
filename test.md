@@ -1,6 +1,8 @@
 ---
 title: GitHub Test
 domain: dmz.hashnode.dev
-tags: Testing, GitHub
+tags: test
+subtitle: GitHub Test Subtitle
 ---
 test body
+
